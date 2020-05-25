@@ -137,3 +137,5 @@ JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 1590382058836	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 52: uncaught exception: TagError: adsbygoogle.push() error: No slot size for availableWidth=0
 1590382070748	Marionette	INFO	Stopped listening on port 54845
+1590382815937	Marionette	INFO	Stopped listening on port 53631
+1590382817397	Marionette	INFO	Stopped listening on port 53539
